@@ -27,3 +27,5 @@ Enter *Kona Talks*, the chat platform that lets you connect with the ultimate su
 - [Akhil S Nair](https://github.com/akhil-s-2004)
 - [Alan Siju](https://github.com/kte22cs011)
 - [Sreelakshmi K](https://github.com/SreelakshmiKSudheer)# KONAtalks
+
+## Visit our site

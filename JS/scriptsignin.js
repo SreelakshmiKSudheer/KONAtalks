@@ -1,4 +1,3 @@
 document.getElementById('signupForm').addEventListener('submit', function(event) {
     event.preventDefault();
-    alert("Sign up form submitted!");
-});
+    window.location.href = 'home.html'; // Redirect to home page});
